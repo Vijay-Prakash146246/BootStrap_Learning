@@ -1,0 +1,24 @@
+What is bootstrap
+Ans It is popular html,css and javaScript  frame work for developing 
+a responsive and mobile friendly website.
+
+if you want to give both side same margin then put it inside the container
+<div class="container"></div>
+for full screen use 
+<div class="containe-fluidr"></div>
+
+bootstrap Grid System(Very Very Important concept)
+BootStrap grids system allow to stracture the layout that are mobile 
+friendly too.
+row :- <div class="row"></div>
+when we create a row bootstrap provide set of 12 grids
+use of it :- 
+image and text side by side 
+
+for responsive 
+col-*
+
+
+
+
+follow bootstrap documentation
